@@ -9,4 +9,4 @@ for (var i = 0; i < numberOfPosts; i++) {
 }
 
 shell.exec('bundle exec jekyll build');
-shell.rm('_posts/*');
+shell.rm('_posts/*.md');
