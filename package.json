@@ -10,6 +10,7 @@
     "performance"
   ],
   "license": "MIT",
+  "private": true,
   "dependencies": {
     "shelljs": "^0.7.5"
   }
