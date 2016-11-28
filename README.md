@@ -7,8 +7,10 @@
 
 ## Quickstart
 
+- Install [Ruby 2.x](https://www.ruby-lang.org) *(if not already installed)*
 - Install [Node.js](https://nodejs.org/en/) *(if not already installed)*
 - `cd jekyll-performance`
+- `gem install bundler`
 - `npm install`
 - `npm start`
 
